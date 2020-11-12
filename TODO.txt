@@ -1,0 +1,5 @@
+Additional Options
+	2 Opponent difficulty - todo
+		2 easy - todo
+		2 medium - todo
+		2 hard - todo
